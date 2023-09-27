@@ -22,19 +22,16 @@ Here are some ideas to get you started:
 
 🔍 I am looking for an opportunity to join a company where I can grow and learn as a web developer and where I can put my skills to use in real-world projects.
 
-<div align="center">
+<div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/joaodcgs/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <br>
   <a href="https://joao-santos.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-0077B5?style=for-the-badge" alt="Portfolio">
   </a>
-  <br>
   <a href="mailto:jdcg.santos@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0077B5?style=for-the-badge&logo=mail.ru" alt="Email">
   </a>
-  <br>
   <a href="https://api.whatsapp.com/send?phone=912154577">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
