@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaodcgs/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://joao-santos.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-jdcg.santos%40gmail.com-blue?style=for-the-badge)](mailto:jdcg.santos@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=912154577)
+
 
 
 
