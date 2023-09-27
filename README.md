@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🔍 I am looking for an opportunity to join a company where I can grow and learn as a web developer and where I can put my skills to use in real-world projects.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/joaodcgs/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/WhatsApp-Chat-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
+
 
 
 
