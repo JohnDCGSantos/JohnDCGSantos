@@ -22,20 +22,21 @@ Here are some ideas to get you started:
 
 🔍 I am looking for an opportunity to join a company where I can grow and learn as a web developer and where I can put my skills to use in real-world projects.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/joaodcgs/" style="margin: 0 10px;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaodcgs/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://joao-santos.netlify.app/" style="margin: 0 10px;">
+  <a href="https://joao-santos.netlify.app/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Portfolio-Website-0077B5?style=for-the-badge" alt="Portfolio">
   </a>
-  <a href="mailto:jdcg.santos@gmail.com" style="margin: 0 10px;">
+  <a href="mailto:jdcg.santos@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0077B5?style=for-the-badge&logo=mail.ru" alt="Email">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=912154577" style="margin: 0 10px;">
+  <a href="https://api.whatsapp.com/send?phone=912154577">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-</div>
+</p>
+
 
 
 
