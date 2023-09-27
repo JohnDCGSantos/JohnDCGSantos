@@ -22,10 +22,20 @@ Here are some ideas to get you started:
 
 🔍 I am looking for an opportunity to join a company where I can grow and learn as a web developer and where I can put my skills to use in real-world projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaodcgs/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://joao-santos.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-jdcg.santos%40gmail.com-blue?style=for-the-badge)](mailto:jdcg.santos@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=912154577)
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaodcgs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://joao-santos.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-25D366?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="mailto:jdcg.santos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-25D366?style=for-the-badge&logo=mail.ru" alt="Email">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=912154577">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
 
 
 
