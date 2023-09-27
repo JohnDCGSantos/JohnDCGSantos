@@ -21,5 +21,5 @@ While I'm considered a junior developer, I compensate for my limited experience 
 My passion lies in creating responsive and well-crafted websites, apps, and JavaScript games. I'm eager to continually enhance my skills and knowledge, striving for improvement every day, so I can contribute effectively to web development projects and make a meaningful impact.
 
 I am looking for an opportunity to join a company where I can grow and learn as a web developer and where I can put my skills to use in real-world projects. 
-#0A66C2
-![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
