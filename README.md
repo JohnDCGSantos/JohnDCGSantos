@@ -22,4 +22,5 @@ My passion lies in creating responsive and well-crafted websites, apps, and Java
 
 I am looking for an opportunity to join a company where I can grow and learn as a web developer and where I can put my skills to use in real-world projects. 
 
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[LinkedIn](https://www.linkedin.com/in/joaodcgs/)
+
