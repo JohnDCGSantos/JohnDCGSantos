@@ -27,13 +27,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://joao-santos.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-25D366?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0077B5?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="mailto:jdcg.santos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-25D366?style=for-the-badge&logo=mail.ru" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0077B5?style=for-the-badge&logo=mail.ru" alt="Email">
   </a>
   <a href="https://api.whatsapp.com/send?phone=912154577">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 
